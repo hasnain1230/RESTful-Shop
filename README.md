@@ -1,5 +1,5 @@
 # RESTful-Shop
-This is a RESTful API that I created using NodeJS, Express, MongoDB, Mongoose, and other web based technologies that are intended to simulate an actual shop; this is a back-end API; I may develop a front end. I am still working on this project, but intend to finish it by the end of the semester. 
+This is a RESTful API that I am creating using NodeJS, Express, MongoDB, Mongoose, and other web based technologies that are intended to simulate an actual shop; this is a back-end API; I may develop a front end. I am still working on this project, but intend to finish it by the end of the semester. 
 
 ## Introduction
 My intention for this project is to simulate a real shop and to treat it as if it were something I would develop in the real world. I want to populate this API with "real" products (and some humor in it too), "real" orders, and a variety of other features that a platform like Shopify would have and use on a daily basis in the form of an HTTP request.
