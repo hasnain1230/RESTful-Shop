@@ -1,0 +1,29 @@
+{
+  "name": "restful-shop-api",
+  "version": "1.0.0",
+  "description": "This is a RESTful API with various resources that can be obtained through HTTP requests. All data here is made up and this is only a proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasnain1230/RESTful-Shop.git"
+  },
+  "keywords": [
+    "NPM",
+    "RESTful-API",
+    "REST",
+    "RESTful",
+    "Shop"
+  ],
+  "author": "Hasnain Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasnain1230/RESTful-Shop/issues"
+  },
+  "homepage": "https://github.com/hasnain1230/RESTful-Shop#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  } 
+}
